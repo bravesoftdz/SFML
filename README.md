@@ -4,7 +4,7 @@
 # SFML
 ### Simple Fast Multimedia Layer
 
-Pascal bindings that allow you to use **SFML** and other useful libraries with <a href="https://www.embarcadero.com/es/products/delphi" target="_blank">Delphi</a>. 
+Pascal bindings that allow you to use **SFML** and other useful C libraries with <a href="https://www.embarcadero.com/es/products/delphi" target="_blank">Delphi</a>. 
 
 ### Included
 - **CSFML** (https://github.com/SFML/CSFML)
